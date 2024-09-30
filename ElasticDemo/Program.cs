@@ -1,6 +1,4 @@
-﻿
-
-using ElasticDemo.Models;
+﻿using ElasticDemo.Models;
 using ElasticDemo.Services;
 
 var searchCriteria = new SearchCriteria
