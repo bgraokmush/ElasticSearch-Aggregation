@@ -7,11 +7,6 @@
   <p align="center">
     🚀 An application built using .NET Core 8 for performing data aggregation with ElasticSearch.
     <br />
-    <a href="https://github.com/bgraokmush/ElasticSearch-Aggregation"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/bgraokmush/ElasticSearch-Aggregation">View Demo</a>
-    ·
     <a href="https://github.com/bgraokmush/ElasticSearch-Aggregation/issues">Report Bug</a>
     ·
     <a href="https://github.com/bgraokmush/ElasticSearch-Aggregation/issues">Request Feature</a>
@@ -104,7 +99,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## ✉️ Contact
 
-Eda - [@your_twitter](https://twitter.com/your_username) - email@example.com
+X Profile - [@bgraokmsuh]([https://twitter.com/your_username](https://x.com/bgraokmush))
 
 Project Link: [https://github.com/bgraokmush/ElasticSearch-Aggregation](https://github.com/bgraokmush/ElasticSearch-Aggregation)
 
